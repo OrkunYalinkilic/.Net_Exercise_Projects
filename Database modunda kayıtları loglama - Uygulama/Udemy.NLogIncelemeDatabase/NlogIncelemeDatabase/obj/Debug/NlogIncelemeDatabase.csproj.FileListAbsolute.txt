@@ -1,0 +1,10 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\113-) Database modunda kayıtları loglama - Uygulama\Udemy.NLogIncelemeDatabase\NlogIncelemeDatabase\bin\Debug\NLog.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\113-) Database modunda kayıtları loglama - Uygulama\Udemy.NLogIncelemeDatabase\NlogIncelemeDatabase\bin\Debug\NlogIncelemeDatabase.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\113-) Database modunda kayıtları loglama - Uygulama\Udemy.NLogIncelemeDatabase\NlogIncelemeDatabase\bin\Debug\NlogIncelemeDatabase.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\113-) Database modunda kayıtları loglama - Uygulama\Udemy.NLogIncelemeDatabase\NlogIncelemeDatabase\bin\Debug\NlogIncelemeDatabase.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\113-) Database modunda kayıtları loglama - Uygulama\Udemy.NLogIncelemeDatabase\NlogIncelemeDatabase\bin\Debug\NLog.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\113-) Database modunda kayıtları loglama - Uygulama\Udemy.NLogIncelemeDatabase\NlogIncelemeDatabase\bin\Debug\NLog.xml
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\113-) Database modunda kayıtları loglama - Uygulama\Udemy.NLogIncelemeDatabase\NlogIncelemeDatabase\obj\Debug\NlogIncelemeDatabase.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\113-) Database modunda kayıtları loglama - Uygulama\Udemy.NLogIncelemeDatabase\NlogIncelemeDatabase\obj\Debug\NlogIncelemeDatabase.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\113-) Database modunda kayıtları loglama - Uygulama\Udemy.NLogIncelemeDatabase\NlogIncelemeDatabase\obj\Debug\NlogIncelemeDatabase.csprojAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\113-) Database modunda kayıtları loglama - Uygulama\Udemy.NLogIncelemeDatabase\NlogIncelemeDatabase\obj\Debug\NlogIncelemeDatabase.csproj.CopyComplete

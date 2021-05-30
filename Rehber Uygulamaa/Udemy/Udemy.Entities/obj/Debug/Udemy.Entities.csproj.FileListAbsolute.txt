@@ -1,0 +1,6 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\102-) Rehber Uygulamaa\Udemy\Udemy.Entities\obj\Debug\Udemy.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\102-) Rehber Uygulamaa\Udemy\Udemy.Entities\obj\Debug\Udemy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\102-) Rehber Uygulamaa\Udemy\Udemy.Entities\bin\Debug\Udemy.Entities.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\102-) Rehber Uygulamaa\Udemy\Udemy.Entities\bin\Debug\Udemy.Entities.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\102-) Rehber Uygulamaa\Udemy\Udemy.Entities\obj\Debug\Udemy.Entities.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\102-) Rehber Uygulamaa\Udemy\Udemy.Entities\obj\Debug\Udemy.Entities.pdb
